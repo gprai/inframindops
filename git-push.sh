@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get commit message from argument, default to "Welcome to StackSimplify"
-COMMIT_MSG="${1:-Welcome to InframindOps-1}"
+COMMIT_MSG="${1:-Welcome to InframindOps Updates}"
 
 echo "...........ADDING ALL FILES ..........."
 git add .
