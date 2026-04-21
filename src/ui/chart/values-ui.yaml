@@ -8,7 +8,7 @@
 image:
   repository: 921307179211.dkr.ecr.us-east-1.amazonaws.com/retail-store/ui
   pullPolicy: IfNotPresent
-  tag: sha-046718b
+  tag: sha-2b3022a
 
 # ----------------------------------------------------------------------------
 # APPLICATION CONFIGURATION
